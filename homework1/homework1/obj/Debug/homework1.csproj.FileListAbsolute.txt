@@ -1,0 +1,10 @@
+C:\Users\Georgi\Desktop\homework1\homework1\bin\Debug\homework1.exe.config
+C:\Users\Georgi\Desktop\homework1\homework1\obj\Debug\homework1.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\homework1\homework1\bin\Debug\homework1.exe
+C:\Users\Georgi\Desktop\homework1\homework1\bin\Debug\homework1.pdb
+C:\Users\Georgi\Desktop\homework1\homework1\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Desktop\homework1\homework1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\homework1\homework1\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Desktop\homework1\homework1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\homework1\homework1\obj\Debug\homework1.exe
+C:\Users\Georgi\Desktop\homework1\homework1\obj\Debug\homework1.pdb
